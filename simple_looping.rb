@@ -1,9 +1,10 @@
 # REMEMBER: print your output to the terminal using 'puts'
 
 def loop_iterator
-   6.times do
+  counter = 0
+  loop do
     puts "Welcome to Flatiron School's Web Development Course!"
-    counter 
+    counter += 1
   end
 
 loop_iterator
