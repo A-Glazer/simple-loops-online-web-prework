@@ -4,8 +4,7 @@ def loop_iterator(number_of_times)
   (number_of_times).times.do
     puts "Welcome to Flatiron School's Web Development Course!"
   end
-end
-end
+
 
 loop_iterator(6)
   # Code your solution here using the "loop" keyword to puts out the below phrase
