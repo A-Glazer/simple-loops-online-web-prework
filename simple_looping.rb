@@ -11,7 +11,7 @@ def loop_iterator(number_of_times)
   end
 end
 
-loop_iterator
+loop_iterator(7)
 
   # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
