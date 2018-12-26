@@ -24,7 +24,8 @@ loop_iterator(7)
   
 
 def times_iterator(number_of_times)
-  number_of_times.times do
+  times_iterator = number_of_times
+  times_iterator.times do
     puts "Welcome to Flatiron School's Web Development Course!"
 end
  
