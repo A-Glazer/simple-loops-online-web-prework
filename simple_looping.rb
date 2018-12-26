@@ -3,8 +3,8 @@
 def loop_iterator
   counter = 0
   loop do
-    puts "Welcome to Flatiron School's Web Development Course!"
-    counter += 1
+    counter += 1puts "Welcome to Flatiron School's Web Development Course!"
+    
   end
 
 loop_iterator
