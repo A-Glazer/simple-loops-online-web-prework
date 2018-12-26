@@ -24,18 +24,17 @@ loop_iterator(7)
   
 
 def times_iterator(number_of_times)
-  number_of_times = 7
   number_of_times.times do
     puts "Welcome to Flatiron School's Web Development Course!"
   end
 end
  
- 
+ times_interator(7)
  
   # code your solution here using the "times" keyword
   #phrase = "Welcome to Flatiron School's Web Development Course!"
   
-end
+
 
 def while_iterator(number_of_times)
   counter = 0
