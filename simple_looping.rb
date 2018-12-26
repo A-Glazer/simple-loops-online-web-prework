@@ -2,7 +2,7 @@
 
 def loop_iterator(number_of_times)
   number_of_times = 6
-  loop do
+  times.6.do
     
   end
   # Code your solution here using the "loop" keyword to puts out the below phrase
