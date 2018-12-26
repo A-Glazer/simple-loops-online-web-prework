@@ -7,8 +7,9 @@ def loop_iterator
     puts "Welcome to Flatiron School's Web Development Course!"
     if counter >= 6
       break
-    
+    end
   end
+end
 
 loop_iterator
 
