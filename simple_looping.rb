@@ -5,7 +5,7 @@ def loop_iterator
   loop do
     counter += 1
     puts "Welcome to Flatiron School's Web Development Course!"
-    if counter == 6
+    if counter >= 6
       break
     
   end
