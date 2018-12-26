@@ -3,7 +3,10 @@
 def loop_iterator
   counter = 0
   loop do
-    counter += 1puts "Welcome to Flatiron School's Web Development Course!"
+    counter += 1
+    puts "Welcome to Flatiron School's Web Development Course!"
+    if counter == 6
+      break
     
   end
 
