@@ -3,6 +3,7 @@
 def loop_iterator
    6.times do
     puts "Welcome to Flatiron School's Web Development Course!"
+    counter 
   end
 
 loop_iterator
