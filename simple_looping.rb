@@ -23,8 +23,8 @@ loop_iterator(7)
   #phrase = "Welcome to Flatiron School's Web Development Course!"
   
 
-def times_iterator
-    7.times do
+def times_iterator(number_of_times)
+    (number_of_times).times do
     puts "Welcome to Flatiron School's Web Development Course!"
 end
  
